@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "reputationmod:block/reinforced_stone"
+    }
+  }
+}

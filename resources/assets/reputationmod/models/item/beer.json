@@ -1,0 +1,6 @@
+{
+  "parent": "reputationmod:custom/coke",
+  "textures": {
+    "0": "reputationmod:item/beer"
+  }
+}

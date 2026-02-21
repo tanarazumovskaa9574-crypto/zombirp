@@ -1,0 +1,7 @@
+{
+  "parent": "reputationmod:custom/konserva",
+  "textures": {
+    "0": "reputationmod:item/kilka",
+    "particle": "reputationmod:item/kilka"
+  }
+}

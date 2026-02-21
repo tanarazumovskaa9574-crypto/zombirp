@@ -1,0 +1,6 @@
+{
+  "parent": "reputationmod:custom/monster",
+  "textures": {
+    "0": "reputationmod:item/monster"
+  }
+}

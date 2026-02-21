@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "reputationmod:tropical_wood",
+    "reputationmod:reinforced_bricks",
+    "reputationmod:reinforced_stone",
+    "reputationmod:dark_metal"
+  ]
+}

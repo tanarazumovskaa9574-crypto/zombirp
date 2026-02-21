@@ -1,0 +1,6 @@
+{
+  "parent": "reputationmod:custom/cigarettes",
+  "textures": {
+    "0": "reputationmod:item/cigarettes"
+  }
+}

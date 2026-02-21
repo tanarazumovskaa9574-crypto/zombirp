@@ -1,0 +1,6 @@
+{
+  "parent": "reputationmod:custom/first_aid_kit",
+  "textures": {
+    "0": "reputationmod:item/first_aid_kit"
+  }
+}

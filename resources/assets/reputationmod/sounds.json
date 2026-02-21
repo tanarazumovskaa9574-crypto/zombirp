@@ -1,0 +1,14 @@
+{
+  "pillssound": {
+    "subtitle": "subtitles.reputationmod.pillssound",
+    "sounds": [
+      "reputationmod:items/pillssound"
+    ]
+  },
+  "marlboro": {
+    "subtitle": "subtitles.reputationmod.marlboro",
+    "sounds": [
+      "reputationmod:marlboro"
+    ]
+  }
+}

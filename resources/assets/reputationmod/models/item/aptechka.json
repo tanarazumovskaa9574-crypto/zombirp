@@ -1,0 +1,6 @@
+{
+  "parent": "reputationmod:custom/aptechka",
+  "textures": {
+    "0": "reputationmod:item/aptechka"
+  }
+}

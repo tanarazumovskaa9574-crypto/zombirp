@@ -1,0 +1,6 @@
+{
+  "parent": "reputationmod:custom/bandage",
+  "textures": {
+    "0": "reputationmod:item/bandage"
+  }
+}

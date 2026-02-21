@@ -1,0 +1,6 @@
+{
+  "parent": "reputationmod:custom/syringe",
+  "textures": {
+    "0": "reputationmod:item/syringe"
+  }
+}

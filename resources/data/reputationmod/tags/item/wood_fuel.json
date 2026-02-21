@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_log",
+    "minecraft:oak_planks",
+    "minecraft:oak_fence",
+    "minecraft:oak_gate",
+    "minecraft:oak_door",
+    "minecraft:oak_trapdoor",
+    "minecraft:oak_slab",
+    "minecraft:oak_stairs",
+    "minecraft:oak_pressure_plate",
+    "minecraft:oak_button",
+    "minecraft:oak_sign",
+    "minecraft:oak_hanging_sign"
+    // можно добавить все деревянные предметы, но для примера пока так
+  ]
+}
